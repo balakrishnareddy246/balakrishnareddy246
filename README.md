@@ -10,3 +10,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: love to reading,palying cricket
 
+<h3 align="center">A passionate software developer from India</h3>
+
