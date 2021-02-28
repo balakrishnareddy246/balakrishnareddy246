@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋,I'm BalakrishnaReddy, Every great dream begins with a dreamer.
 
 <!--
-**balakrishnareddy246/balakrishnareddy246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**balakrishnareddy246/balakrishnareddy246** is a ✨balakrishna reddy✨ repository because its `README.md` 
+- 🔭 I’m currently working on Devops,Go
+- 🌱 I’m currently learning Kubernets,helm
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with learn more and gain knowledge
+- 💬 Ask me about GO,DEVOPS,database
+- 📫 How to reach me: balakrishnareddy1998@gmail.com
+- 📫
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: love to reading,palying cricket
 -->
